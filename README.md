@@ -1,7 +1,7 @@
 # Student university information system
 
-Tier 3 Java application. We created a fully functional authentication and authorization solution. Students, instructors and secretaries have access to specific funtionallities based on their role.
-Some of the core functionallities are:
+Tier 3 Java application. We created a fully functional authentication and authorization solution. Students, instructors and secretaries have access to specific funtionalities based on their role.
+Some of the core funtionalities are:
 - Students are able to view their grades, semesters, courses, total score, gpa.
 - Instructors are able to perform at least the following: view a list of grades per lesson (for already graduated courses), posting a grade per course (for non-graded courses), edit grades and more.
 - Secretaries are able to perform at least the following: view course details (course title, semester, etc), assign courses to an instructor, add/edit/delete courses and more.
